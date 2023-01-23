@@ -13,7 +13,7 @@ This GNU C program is in the sources/ directory.
 
 # Description and use.
 
-The program is a finite difference code that solves for streamfunction followed by vorticity to provide pressure and velocity in the 2D models. Five geometry variants are considered. A placeholder function attempts to simulate the diffusion of solutes thru' the porous medium but may be sub-optimal due to numerical instability. Shown below is a draft of the simulated velocities in the dialysate (top) panel and the blood (bottom pane).  
+The program is a finite difference code that solves for streamfunction followed by vorticity to provide pressure and velocity in the 2D models. Five geometry variants are considered. A placeholder function attempts to simulate the diffusion of solutes thru' the porous medium but may be sub-optimal due to numerical instability. Shown below is a draft of the simulated velocities in the dialysate (top) panel and the blood (bottom panel).  
 
 ![srkDDraft](model2_velocities.png)
 
